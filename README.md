@@ -1,7 +1,7 @@
 # Salp-Simulations
 Package of MatLab code that simulates and animates motion of salp-like swimmers.  These swimmers are chains of individual agents in a drag-dominated fluid environment that are elastically connected and move by exerting thrust into the fluid.
 
-![](https://github.com/NathanJustus/Salp-Simulations/blob/main/SalpAnimations/1_medLinks_cleanedUp.gif)
+![](https://github.com/OSU-LRAM/Salp-Simulations-LRAM/blob/main/SalpAnimations/1_medLinks_cleanedUp.gif)
 
 # How To Use
 
